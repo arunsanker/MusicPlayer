@@ -99,7 +99,7 @@ async def show_help(client, message):
         ],
         [
             InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/arun_sanker'),
-            InlineKeyboardButton('🧩 Source', url='https://github.com/subinps/MusicPlayer'),
+            InlineKeyboardButton('🧩 English community', url='https://t.me/en_community'),
         ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)

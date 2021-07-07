@@ -29,7 +29,7 @@ import sys
 U=USERNAME
 CHAT=Config.CHAT
 msg=Config.msg
-HOME_TEXT = "<b>Helo, [{}](tg://user?id={})\n\nIam MusicPlayer 2.0 which plays music in Channels and Groups 24*7.\n\nI can even Stream Youtube Live in Your Voicechat.\n\nDeploy Your Own bot from source code below.\n\nHit /help to know about available commands.</b>"
+HOME_TEXT = "<b>Helo, [{}](tg://user?id={})\n\nIam English Community MusicPlayer bot which plays music in Channels and Groups 24*7.\n\nMy master Arun Sanker.\n\nJoin English community to improve english.\n\nHit /help to know about available commands.</b>"
 HELP = """
 
 <b>Add the bot and User account in your Group with admin rights.
